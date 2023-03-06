@@ -10,7 +10,7 @@ body:
       placeholder: Description
     validations:
       required: false
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         No matched issue template? Try the blank issue! We welcome submitting issues to Tensorflow.NET!
